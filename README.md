@@ -24,7 +24,7 @@ This tutorial provides a comprehensive guide to the post-installation configurat
 - Windows 10</b> (21H2)
 
 <h2>Post-Install Configuration Objectives</h2>
-
+Step 1: 
 - Establish a senior administrator position with appropriate role-based access control privileges and permissions.
 - Implement a new department for system administrators.
 - Configure one team responsible for level II support issues.
@@ -39,6 +39,8 @@ This tutorial provides a comprehensive guide to the post-installation configurat
 </p>
 Please, note that all the bellow manip are as Admin.</p>
 </p>
+
+ ----
 Step 1. Configure Roles: </p>
 
 * Admin Panel -> Agents -> Roles <p>
