@@ -7,6 +7,8 @@
 </p>
 This tutorial demonstrates the post configuration setup of the osTicket system .<br />
 
+<p align="left"> Previous Part 1 of 3: <a href="https://github.com/Afrocybersamurai/osticket-prereqs">osTicket: Post-Installation Configuration</a></p>
+<br />
 <p>
 
 </p>
