@@ -74,5 +74,5 @@ Help topics help users categorize their tickets. In the example below we have ma
 <img src="https://i.imgur.com/kB7rts2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<p align="right"> Next: <a href="https://github.com/"
+<p align="right"> Next: <a href="https://github.com/Afrocybersamurai/osticketlifecycle-3-of-3"
 >osTicket: Ticket Lifecycle Examples</a></p>
